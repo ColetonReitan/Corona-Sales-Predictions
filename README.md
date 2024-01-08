@@ -4,3 +4,5 @@ This project is similar to that of the Mansfield Sales Predictions, but holds a 
 An Applied Machine Learning group final project, lead by myself along with 2 others in December 2022.
 
 Completed fully using Python within Jupyter Notebook.
+
+The data used could not be posted as it may be classified company data.
